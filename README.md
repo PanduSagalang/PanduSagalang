@@ -67,8 +67,6 @@ I enjoy building functional web applications, crafting clean UI/UX designs, and 
 
 
 
-
-
 📫 Let's Connect
 - 📧 Email: pandusagalang2@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/username
@@ -76,7 +74,7 @@ I enjoy building functional web applications, crafting clean UI/UX designs, and 
 
 <div align="center">
 
-<h2>⭐ “Combine logic, creativity, and consistency to build impactful technology.</h2>
+<h2>“Combine logic, creativity, and consistency to build impactful technology."</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BBF9,100:00F5A0&height=120&section=footer"/>
 
