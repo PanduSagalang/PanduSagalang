@@ -1,13 +1,23 @@
-<h1 align="center">Hello World! I'm Pandu 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00BBF9&height=180&section=header&text=Hello%20World!%20I'm%20Pandu&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 <h3 align="center">💻 IT Enthusiast | Creative Designer | UI/UX & Web Developer</h3>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Code+with+Logic.;Design+with+Creativity.;Build+with+Purpose." />
 
-About Me
+</div>
+
+
+<h3>About Me</h3>
+
 Hi! I'm Pandu Sagalang, an information technology enthusiast with a strong passion for software development and creative design.  
 I enjoy building functional web applications, crafting clean UI/UX designs, and creating visual content that communicates ideas effectively.
 
-What I Do
+
+
+<h3>What I Do</h3>
+
 - 🌐 Web Development 
 - 🎨 UI/UX Design & Creative Graphic Design
 - 🎬 Video Editing & Motion Graphics
@@ -15,67 +25,59 @@ What I Do
 - 🔌 IoT & Microcontroller (Arduino)
 
 
-🎓 Background
+<h3>Background</h3>
+
 - 🏫 Graduate of SMAN 1 Kawedanan
 - 🎓 University Student & IT Lecturer
 - 💡 Interested in Web Apps, UI/UX, ERP Systems, Database, and Creative Media
 - 🛠️ Experienced in academic, creative, and real-world projects
 
 
-Tech Stack
-
-💻 Programming Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-🌐 Web & Framework
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-🎨 UI/UX & Design Tools
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom)
-
-🎬 Video & Motion
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
-
-🔌 Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 
 
-📊 GitHub Stats
+<h2>Tech Stack</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cpp,kotlin,laravel,tailwind,mysql,firebase,figma,arduino,github&perline=15" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom"/>
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro"/>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects"/>
+</p>
+
+
+🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PanduSagalang&theme=tokyonight&no-frame=true&row=1&column=5" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanduSagalang&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanduSagalang&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PanduSagalang&theme=react-dark)
 
----
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PanduSagalang/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 
 📫 Let's Connect
 - 📧 Email: pandusagalang2@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/username
 
 
-⭐ “Combine logic, creativity, and consistency to build impactful technology.
+<div align="center">
+
+<h2>⭐ “Combine logic, creativity, and consistency to build impactful technology.</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BBF9,100:00F5A0&height=120&section=footer"/>
+
+</div>
