@@ -50,23 +50,23 @@ I enjoy building functional web applications, crafting clean UI/UX designs, and 
 </p>
 
 
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanduSagalang&theme=tokyonight&no-frame=true&row=1&column=5" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanduSagalang&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 
-
-🐍 Contribution Snake
-
+<h2>Contribution</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PanduSagalang/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PanduSagalang/PanduSagalang/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/PanduSagalang/PanduSagalang/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </p>
+
+
+
 
 
 📫 Let's Connect
