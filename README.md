@@ -69,7 +69,6 @@ I enjoy building functional web applications, crafting clean UI/UX designs, and 
 
 📫 Let's Connect
 - 📧 Email: pandusagalang2@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/username
 
 
 <div align="center">
